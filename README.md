@@ -31,8 +31,8 @@
   <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=black">  
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=OpenCV&logoColor=black">
   <img src="https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=YOLO&logoColor=black"><br>
-  
 </p>
+
 [:tv: 찜콩 시연 영상](https://)  
 [:film_strip: 발표 영상](https://)  
 [:books: 발표 자료](https://)<br>

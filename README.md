@@ -1,7 +1,7 @@
 # 🏠 찜콩 - 맞춤형 주거 공간 시뮬레이터 서비스
 [:tv: 찜콩 시연 영상](https://)  
 [:film_strip: 발표 영상](https://)  
-[:books: 발표 자료](https://)
+[:books: 발표 자료](https://)<br>
 [🌐 Notion]()
 
 ## 🌈 프로젝트 소개

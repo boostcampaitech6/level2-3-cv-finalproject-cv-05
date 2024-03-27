@@ -1,4 +1,38 @@
 # 🏠 찜콩 - 맞춤형 주거 공간 시뮬레이터 서비스
+<p align="center">
+
+  <!--프론트앤드 관련 태그-->
+  <img src="https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=Svelte&logoColor=black">  
+  <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=black">
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=Vite&logoColor=black">  
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=black">  
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=black"><br>
+  
+  <!--백앤드, 배포 관련 태그-->
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=black">  
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=black">  
+  <img src="https://img.shields.io/badge/Poetry-60A5FA?style=for-the-badge&logo=Poetry&logoColor=black">  
+  <img src="https://img.shields.io/badge/Google Cloud-4285F4?style=for-the-badge&logo=Google Cloud&logoColor=black">  
+  <img src="https://img.shields.io/badge/Ubuntu-013243?style=for-the-badge&logo=Ubuntu&logoColor=white">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=black">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=black"><br>
+  
+  <!--모델 관련 태그-->
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=black">  
+  <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">  
+  <img src="https://img.shields.io/badge/NumPy-E95420?style=for-the-badge&logo=NumPy&logoColor=black">  
+  <img src="https://img.shields.io/badge/Scikit learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white">  
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=black">  
+  <img src="https://img.shields.io/badge/W&B-FFBE00?style=for-the-badge&logo=WeightsandBiases&logoColor=white">  
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=black"><br>
+  
+  <!--데이터 관련 태그-->
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=Plotly&logoColor=black">  
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=black">  
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=OpenCV&logoColor=black">
+  <img src="https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=YOLO&logoColor=black"><br>
+  
+</p>
 [:tv: 찜콩 시연 영상](https://)  
 [:film_strip: 발표 영상](https://)  
 [:books: 발표 자료](https://)<br>

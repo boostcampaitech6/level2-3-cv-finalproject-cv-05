@@ -33,15 +33,15 @@
 </p>
 
 ## 🗂️ 목차
--[▶️ 유용한 링크](https://github.com/boostcampaitech6/level2-3-cv-finalproject-cv-05/blob/main/README.md#%EF%B8%8F-%EC%9C%A0%EC%9A%A9%ED%95%9C-%EB%A7%81%ED%81%AC)
--[🌈 프로젝트 소개](https://github.com/boostcampaitech6/level2-3-cv-finalproject-cv-05/blob/main/README.md#-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%86%8C%EA%B0%9C)
--[💡 주요 기능](https://github.com/boostcampaitech6/level2-3-cv-finalproject-cv-05/blob/main/README.md#-%EC%A3%BC%EC%9A%94-%EA%B8%B0%EB%8A%A5)
--[👥 팀 소개](https://github.com/boostcampaitech6/level2-3-cv-finalproject-cv-05/blob/main/README.md#-%ED%8C%80-%EC%86%8C%EA%B0%9C)
--[🍀 시연영상](https://github.com/boostcampaitech6/level2-3-cv-finalproject-cv-05/blob/main/README.md#-%EC%8B%9C%EC%97%B0%EC%98%81%EC%83%81)
--[🛠 사용 기술](https://github.com/boostcampaitech6/level2-3-cv-finalproject-cv-05/blob/main/README.md#-%EC%82%AC%EC%9A%A9-%EA%B8%B0%EC%88%A0)
--[🏛️ 전체 서비스 아키텍처](https://github.com/boostcampaitech6/level2-3-cv-finalproject-cv-05/blob/main/README.md#%EF%B8%8F-%EC%A0%84%EC%B2%B4-%EC%84%9C%EB%B9%84%EC%8A%A4-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98)
--[🗓️ 프로젝트 타임라인](https://github.com/boostcampaitech6/level2-3-cv-finalproject-cv-05/blob/main/README.md#%EF%B8%8F-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%ED%83%80%EC%9E%84%EB%9D%BC%EC%9D%B8)
--[📞 연락처](https://github.com/boostcampaitech6/level2-3-cv-finalproject-cv-05/blob/main/README.md#-%EC%97%B0%EB%9D%BD%EC%B2%98)
+-[▶️ 유용한 링크](https://github.com/boostcampaitech6/level2-3-cv-finalproject-cv-05/blob/main/README.md#%EF%B8%8F-%EC%9C%A0%EC%9A%A9%ED%95%9C-%EB%A7%81%ED%81%AC)<br>
+-[🌈 프로젝트 소개](https://github.com/boostcampaitech6/level2-3-cv-finalproject-cv-05/blob/main/README.md#-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%86%8C%EA%B0%9C)<br>
+-[💡 주요 기능](https://github.com/boostcampaitech6/level2-3-cv-finalproject-cv-05/blob/main/README.md#-%EC%A3%BC%EC%9A%94-%EA%B8%B0%EB%8A%A5)<br>
+-[👥 팀 소개](https://github.com/boostcampaitech6/level2-3-cv-finalproject-cv-05/blob/main/README.md#-%ED%8C%80-%EC%86%8C%EA%B0%9C)<br>
+-[🍀 시연영상](https://github.com/boostcampaitech6/level2-3-cv-finalproject-cv-05/blob/main/README.md#-%EC%8B%9C%EC%97%B0%EC%98%81%EC%83%81)<br>
+-[🛠 사용 기술](https://github.com/boostcampaitech6/level2-3-cv-finalproject-cv-05/blob/main/README.md#-%EC%82%AC%EC%9A%A9-%EA%B8%B0%EC%88%A0)<br>
+-[🏛️ 전체 서비스 아키텍처](https://github.com/boostcampaitech6/level2-3-cv-finalproject-cv-05/blob/main/README.md#%EF%B8%8F-%EC%A0%84%EC%B2%B4-%EC%84%9C%EB%B9%84%EC%8A%A4-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98)<br>
+-[🗓️ 프로젝트 타임라인](https://github.com/boostcampaitech6/level2-3-cv-finalproject-cv-05/blob/main/README.md#%EF%B8%8F-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%ED%83%80%EC%9E%84%EB%9D%BC%EC%9D%B8)<br>
+-[📞 연락처](https://github.com/boostcampaitech6/level2-3-cv-finalproject-cv-05/blob/main/README.md#-%EC%97%B0%EB%9D%BD%EC%B2%98)<br>
  
 ## ▶️ 유용한 링크
 - [:tv: 찜콩 시연 영상](https://www.youtube.com/watch?v=dQB0vjDiycg&t=542s)  

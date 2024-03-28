@@ -33,9 +33,9 @@
 </p>
 
 [:tv: 찜콩 시연 영상](https://www.youtube.com/watch?v=dQB0vjDiycg&t=542s)  
-[:film_strip: 발표 영상](https://www.youtube.com/watch?v=dQB0vjDiycg&t=2s) 
+[:film_strip: 발표 영상](https://www.youtube.com/watch?v=dQB0vjDiycg&t=2s)<br>
 [:books: 발표 자료](https://)<br>
-[🌐 Notion]()
+[🌐 Notion](https://www.notion.so/woohee-yang/Boostcamp-AI-Tech-6-zzimkkong-ae64c6924e10414a83e66a8b4d871cda)
 
 ## 🌈 프로젝트 소개
 - "찜콩"은 사용자의 생활 패턴과 취향을 반영한 맞춤형 주거 공간 디자인을 추천해주는 서비스입니다. 사용자가 꿈꾸는 이상적인 생활 공간을 실현할 수 있도록, AI 기반의 추천 알고리즘을 통해 사용자 개인의 취향과 요구에 맞는 인테리어 디자인을 제안합니다.

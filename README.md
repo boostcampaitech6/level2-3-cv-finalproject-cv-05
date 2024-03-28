@@ -66,7 +66,7 @@
 ![image](https://github.com/boostcampaitech6/level2-3-cv-finalproject-cv-05/assets/68053155/81bafd11-dddf-403f-a85b-6f1e12c988fe)
 
 ## 🍀 시연영상
-[![Watch the video](https://img.youtube.com/vi/dQB0vjDiycg/maxresdefault.jpg)](https://www.youtube.com/watch?v=dQB0vjDiycg)
+[![Watch the video](https://img.youtube.com/vi/dQB0vjDiycg/maxresdefault.jpg)](https://www.youtube.com/watch?v=dQB0vjDiycg&t=542s)
 
 
 ## 🛠 사용 기술

@@ -1,5 +1,6 @@
 # 🏠 찜콩 - 맞춤형 주거 공간 시뮬레이터 서비스
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/83380311-3019-4d02-a874-22079efc414e/cc2807de-8ecd-4ef1-ae76-eef4327f2675/Untitled.png)
+![Untitled (1)](https://github.com/boostcampaitech6/level2-3-cv-finalproject-cv-05/assets/68053155/55691cec-b71c-4df3-b09a-39aeebbcfecb)
+
 <p align="center">
 
   <!--프론트앤드 관련 태그-->

@@ -32,6 +32,7 @@
   <img src="https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=YOLO&logoColor=black"><br>
 </p>
 
+## ▶️ 유용한 링크
 [:tv: 찜콩 시연 영상](https://www.youtube.com/watch?v=dQB0vjDiycg&t=542s)  
 [:film_strip: 발표 영상](https://www.youtube.com/watch?v=dQB0vjDiycg&t=2s)<br>
 [:books: 발표 자료](https://github.com/boostcampaitech6/level2-3-cv-finalproject-cv-05/blob/main/boostcamp-cv05-semi-final.pdf)<br>

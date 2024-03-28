@@ -9,6 +9,7 @@
 - [🛠 사용 기술](https://github.com/boostcampaitech6/level2-3-cv-finalproject-cv-05/blob/main/README.md#-%EC%82%AC%EC%9A%A9-%EA%B8%B0%EC%88%A0)<br>
 - [🏛️ 전체 서비스 아키텍처](https://github.com/boostcampaitech6/level2-3-cv-finalproject-cv-05/blob/main/README.md#%EF%B8%8F-%EC%A0%84%EC%B2%B4-%EC%84%9C%EB%B9%84%EC%8A%A4-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98)<br>
 - [🗓️ 프로젝트 타임라인](https://github.com/boostcampaitech6/level2-3-cv-finalproject-cv-05/blob/main/README.md#%EF%B8%8F-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%ED%83%80%EC%9E%84%EB%9D%BC%EC%9D%B8)<br>
+- [⚙️ 유용한 링크](https://github.com/boostcampaitech6/level2-3-cv-finalproject-cv-05?tab=readme-ov-file#%EC%9C%A0%EC%9A%A9%ED%95%9C-%EB%A7%81%ED%81%AC)<br>
 - [📞 연락처](https://github.com/boostcampaitech6/level2-3-cv-finalproject-cv-05/blob/main/README.md#-%EC%97%B0%EB%9D%BD%EC%B2%98)<br>
 
 ## 🌈 프로젝트 소개
@@ -79,12 +80,12 @@
 ## 🏛️ 전체 서비스 아키텍처
 ![image](https://github.com/boostcampaitech6/level2-3-cv-finalproject-cv-05/assets/68053155/20c0cee9-6e56-4194-ba0b-66fcf0efbf1e)
 
-## 유용한 링크
- - [📚 발표 자료]()
- - [🍀Notion](https://www.notion.so/woohee-yang/Boostcamp-AI-Tech-6-zzimkkong-ae64c6924e10414a83e66a8b4d871cda)
-
 ## 🗓️ 프로젝트 타임라인
 ![image](https://github.com/boostcampaitech6/level2-3-cv-finalproject-cv-05/assets/68053155/f2b622b0-bd39-40e3-a8bc-20329785c596)
 
+## ⚙️ 유용한 링크
+ - [📚 발표 자료](https://github.com/boostcampaitech6/level2-3-cv-finalproject-cv-05/blob/main/boostcamp-cv05-semi-final.pdf)
+ - [🍀Notion](https://www.notion.so/woohee-yang/Boostcamp-AI-Tech-6-zzimkkong-ae64c6924e10414a83e66a8b4d871cda)
+   
 ## 📞 연락처
 - 프로젝트에 대한 궁금한 점이 있으시면 이메일로 문의해 주세요: bcatcv5@gmail.com

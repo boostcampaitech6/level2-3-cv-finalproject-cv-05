@@ -4,15 +4,12 @@
 <p align="center">
 
   <!--프론트앤드 관련 태그-->
-  <img src="https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=Svelte&logoColor=black">  
   <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=black">
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=Vite&logoColor=black">  
   <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=black">  
   <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=black"><br>
   
   <!--백앤드, 배포 관련 태그-->
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=black">  
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=black">  
   <img src="https://img.shields.io/badge/Poetry-60A5FA?style=for-the-badge&logo=Poetry&logoColor=black">  
   <img src="https://img.shields.io/badge/Google Cloud-4285F4?style=for-the-badge&logo=Google Cloud&logoColor=black">  
   <img src="https://img.shields.io/badge/Ubuntu-013243?style=for-the-badge&logo=Ubuntu&logoColor=white">
@@ -35,8 +32,8 @@
   <img src="https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=YOLO&logoColor=black"><br>
 </p>
 
-[:tv: 찜콩 시연 영상](https://)  
-[:film_strip: 발표 영상](https://)  
+[:tv: 찜콩 시연 영상](https://www.youtube.com/watch?v=dQB0vjDiycg&t=542s)  
+[:film_strip: 발표 영상](https://www.youtube.com/watch?v=dQB0vjDiycg&t=2s) 
 [:books: 발표 자료](https://)<br>
 [🌐 Notion]()
 

@@ -33,7 +33,6 @@
 </p>
 
 ## 🗂️ 목차
-- [▶️ 유용한 링크](https://github.com/boostcampaitech6/level2-3-cv-finalproject-cv-05/blob/main/README.md#%EF%B8%8F-%EC%9C%A0%EC%9A%A9%ED%95%9C-%EB%A7%81%ED%81%AC)<br>
 - [🌈 프로젝트 소개](https://github.com/boostcampaitech6/level2-3-cv-finalproject-cv-05/blob/main/README.md#-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%86%8C%EA%B0%9C)<br>
 - [💡 주요 기능](https://github.com/boostcampaitech6/level2-3-cv-finalproject-cv-05/blob/main/README.md#-%EC%A3%BC%EC%9A%94-%EA%B8%B0%EB%8A%A5)<br>
 - [👥 팀 소개](https://github.com/boostcampaitech6/level2-3-cv-finalproject-cv-05/blob/main/README.md#-%ED%8C%80-%EC%86%8C%EA%B0%9C)<br>

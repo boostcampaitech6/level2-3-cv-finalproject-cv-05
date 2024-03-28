@@ -34,7 +34,7 @@
 
 [:tv: 찜콩 시연 영상](https://www.youtube.com/watch?v=dQB0vjDiycg&t=542s)  
 [:film_strip: 발표 영상](https://www.youtube.com/watch?v=dQB0vjDiycg&t=2s)<br>
-[:books: 발표 자료](https://)<br>
+[:books: 발표 자료]((https://github.com/boostcampaitech6/level2-3-cv-finalproject-cv-05/blob/main/boostcamp-cv05-semi-final.pdf))<br>
 [🌐 Notion](https://www.notion.so/woohee-yang/Boostcamp-AI-Tech-6-zzimkkong-ae64c6924e10414a83e66a8b4d871cda)
 
 ## 🌈 프로젝트 소개

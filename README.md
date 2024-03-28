@@ -95,6 +95,7 @@
 ![image](https://github.com/boostcampaitech6/level2-3-cv-finalproject-cv-05/assets/68053155/81bafd11-dddf-403f-a85b-6f1e12c988fe)
 
 ## 🍀 시연영상
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dQB0vjDiycg?si=ktjoCsLdgx9IwIm2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## 🛠 사용 기술
 - **Frontend**: React.js

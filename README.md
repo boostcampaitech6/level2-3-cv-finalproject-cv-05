@@ -101,13 +101,13 @@
 - **Backend**: Spring Boot, MYSQL
 - **AI & Machine Learning**: Pytorch
 - **Deployment**: NCP, Ddocker, Redis
-- Collaborative Tool : Git, Notion, Jira
+- **Collaborative Tool** : Git, Notion, Jira
 
 ## 🏛️ 전체 서비스 아키텍처
 ![image](https://github.com/boostcampaitech6/level2-3-cv-finalproject-cv-05/assets/68053155/20c0cee9-6e56-4194-ba0b-66fcf0efbf1e)
 
 ## 🗓️ 프로젝트 타임라인
-![image](https://github.com/boostcampaitech6/level2-3-cv-finalproject-cv-05/assets/68053155/8dea7fb9-c165-454e-a4ca-47f92c392956)
+![image](https://github.com/boostcampaitech6/level2-3-cv-finalproject-cv-05/assets/68053155/f2b622b0-bd39-40e3-a8bc-20329785c596)
 
 ## 📞 연락처
 - 프로젝트에 대한 궁금한 점이 있으시면 이메일로 문의해 주세요: bcatcv5@gmail.com

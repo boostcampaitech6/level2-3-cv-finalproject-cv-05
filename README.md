@@ -118,8 +118,10 @@
 - **Collaborative Tool** : Git, GitHub, Notion, Jira
 
 ## 🏛️ 전체 서비스 아키텍처
+#### 1. Application
 ![image](https://github.com/boostcampaitech6/level2-3-cv-finalproject-cv-05/assets/68053155/20c0cee9-6e56-4194-ba0b-66fcf0efbf1e)
 
+#### 2. Inference
 ![image](https://github.com/boostcampaitech6/level2-3-cv-finalproject-cv-05/assets/68053155/05522555-49d0-4012-9e92-6ed59e64ba56)
 
 ## 🗓️ 프로젝트 타임라인

@@ -57,6 +57,8 @@
 | --- |
 |<img src = "https://github.com/SangBeom-Hahn/Sketch2Fashion/assets/90328527/b4f79442-5b00-4aa2-9606-3a9feea17755">|
 | 가구 선택 후 배치, 회전, 크기 조절, 위치 이동, 복제 및 다른 종류 가구 배치 |
+|<img src = "https://github.com/user-attachments/assets/50795b12-2c66-4d04-a3e6-a2f4aa883696">|
+| 회원가입 전 가능한, Demo 기능 |
 
 | 인테리어 갤러리 |
 | --- |

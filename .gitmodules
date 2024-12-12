@@ -1,0 +1,9 @@
+[submodule "zzimkong-rendering"]
+	path = zzimkong-rendering
+	url = https://github.com/bcatcv5/zzimkong-rendering.git
+[submodule "zzimkong-backend"]
+	path = zzimkong-backend
+	url = https://github.com/bcatcv5/zzimkong-backend.git
+[submodule "zzimkong-modeling"]
+	path = zzimkong-modeling
+	url = https://github.com/bcatcv5/zzimkong-modeling.git

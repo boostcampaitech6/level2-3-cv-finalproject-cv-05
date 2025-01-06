@@ -2,7 +2,11 @@
 ![Untitled (1)](https://github.com/boostcampaitech6/level2-3-cv-finalproject-cv-05/assets/68053155/55691cec-b71c-4df3-b09a-39aeebbcfecb)
 
 ### [보여줘 홈즈 홈페이지](https://zzimkong.ggm.kr/) 
-(현재 서비스는 GPU 비용 문제로 동작하지 않습니다. 더 나은 서비스로 돌아오겠습니다👏)
+(현재 서비스는 GPU 비용 문제로 일부 기능이 동작하지 않습니다! 불가능한 기능을 요청할 시 서버에서 문제가 발생할 수 있습니다. 더 나은 서비스로 돌아오겠습니다👏)
+```
+가능 한 기능 : 데모, 갤러리
+불가능 한 기능 : 공간 업로드, 가구 업로드, 공간 재구성, 가구 재구성
+```
 
 ## 🗂️ 목차
 - [🌈 프로젝트 소개](https://github.com/boostcampaitech6/level2-3-cv-finalproject-cv-05/blob/main/README.md#-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%86%8C%EA%B0%9C)<br>

@@ -124,11 +124,11 @@
 - **Collaborative Tool** : Git, GitHub, Notion, Jira
 
 ## 🏛️ 전체 서비스 아키텍처
-#### 1. Application
+#### 1. 서비스 요청 흐름도
 ![image](https://github.com/boostcampaitech6/level2-3-cv-finalproject-cv-05/assets/68053155/20c0cee9-6e56-4194-ba0b-66fcf0efbf1e)
 
-#### 2. Inference
-![image](https://github.com/boostcampaitech6/level2-3-cv-finalproject-cv-05/blob/main/assets/infer.JPG)
+#### 2. 추론 요청 흐름도
+![image](https://github.com/boostcampaitech6/level2-3-cv-finalproject-cv-05/blob/main/assets/infer.PNG)
 
 ## 🗓️ 프로젝트 타임라인
 ![image](https://github.com/boostcampaitech6/level2-3-cv-finalproject-cv-05/assets/68053155/f2b622b0-bd39-40e3-a8bc-20329785c596)
